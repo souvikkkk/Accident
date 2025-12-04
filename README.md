@@ -1,4 +1,4 @@
-# **AI Accident Detection and Prediction System 🚨🤖**
+# **AI Accident Detection and Alert System 🚨🤖**
 
 An intelligent system that **detects and predicts road accidents** using AI/ML models and computer vision techniques. This project analyzes video input (or live camera feed) to identify accident-like events and trigger alerts automatically.
 
@@ -6,7 +6,7 @@ An intelligent system that **detects and predicts road accidents** using AI/ML m
 
 ## 📌 **Project Overview**
 
-The **AI Accident Detection and Prediction System** is designed to improve road safety by detecting accidents in real time using deep learning and image processing.  
+The **AI Accident Detection and Alert System** is designed to improve road safety by detecting accidents in real time using deep learning and image processing.  
 The system processes video frames, detects vehicles, analyzes their movement, and predicts accident-prone scenarios. It can run on:
 
 - 📹 Video files  
